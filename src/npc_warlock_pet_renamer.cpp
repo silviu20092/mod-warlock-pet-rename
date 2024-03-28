@@ -97,7 +97,7 @@ private:
                 break;
         }
 
-        return pet->GetName() + "(" + type + ")";
+        return pet->GetName() + " (" + type + ")";
     }
 public:
     npc_warlock_pet_renamer() : CreatureScript("npc_warlock_pet_renamer")
