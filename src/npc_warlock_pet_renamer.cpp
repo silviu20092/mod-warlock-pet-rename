@@ -8,7 +8,6 @@
 #include "Pet.h"
 #include "DatabaseEnv.h"
 #include "GameTime.h"
-#include "Chat.h"
 
 class npc_warlock_pet_renamer : public CreatureScript
 {
